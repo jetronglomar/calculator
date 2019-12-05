@@ -6,4 +6,4 @@ What I learn:
 3. IOS Responsive Layout
 
 
-![Screenshot](Iphone 11 Portrait.png)
+![Screenshot](https://github.com/jetronglomar/calculator/blob/master/Iphone%2011%20Portrait.png)
